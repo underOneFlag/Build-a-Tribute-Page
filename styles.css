@@ -36,8 +36,7 @@ figure {
     width: 90%;
     background-color: white;
     margin: 0 auto 0 auto;
-    padding: 4px;
-    padding-top: 0;
+    padding: 0 4px 24px 0;
 }
 
 img {
