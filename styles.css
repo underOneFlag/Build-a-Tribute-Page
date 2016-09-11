@@ -108,3 +108,11 @@ footer {
     margin: 0 auto;
     padding-top: 30px;
 }
+
+hr {
+    border: 1px #eee solid;
+}
+
+footer > p {
+    padding-top: 20px;
+}
