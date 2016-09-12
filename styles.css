@@ -122,12 +122,8 @@ footer {
 
 hr {
     border: 1px #eee solid;
+    margin-bottom: 30px;
 }
-
-footer > p {
-    padding-top: 20px;
-}
-
 
 @media only screen and (max-width: 1200px) {
     main {
